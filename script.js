@@ -1,3 +1,5 @@
-require("dotenv").config();
+    require("dotenv").config();
 
-console.log(process.WEATHER_API-KEY);
+    process.env
+
+    console.log(process.env.WEATHER_API_KEY);
